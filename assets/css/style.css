@@ -52,6 +52,12 @@ p {
     font-size: 16px;
 }
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /* Class Selectors */
 .hero {
     height: 800px;
@@ -70,12 +76,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
