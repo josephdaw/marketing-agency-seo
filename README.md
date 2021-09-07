@@ -1,5 +1,7 @@
 # Marketing Agency SEO
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 In this project a marketing agency requires their existing website to be updated inline with modern accessiblity and Search Engine Optimisation standards.
 
@@ -29,6 +31,10 @@ header nav ul li {
 I don't know how it has taken me this long to become acquainted with Git. Version control is something I have always taken seriously. You learn how important it is pretty quickly when one small change somehow breaks everything! In the past my version control has been saving multiple copies of my files using v0.0.1 convention. 
 
 Getting used to using Git and GitHub is a bit of a learning curve, but one that I am excited to continue practicing. Even during this project, I reset the code back to a previous commit a couple of times when broke the CSS while consolidating classes.
+
+## License
+This project is released under the [MIT License](LICENSE)
+
 
 ## Credits
 This user story is part of the [Adelaide University Coding Boot Camp](https://bootcamps.adelaide.edu.au).
