@@ -23,25 +23,12 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
-    color: #d9dcd6;
-}
-
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
-
-header nav ul {
-    list-style-type: none;
-}
-
-header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
 }
 
 a {
@@ -54,23 +41,6 @@ main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-main section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-main section img {
-    max-height: 200px;
-}
-
-main section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 p {
@@ -90,6 +60,19 @@ footer h2 {
 }
 
 /* Class Selectors */
+.seo {
+    color: #d9dcd6;
+}
+
+.header-nav {
+    list-style-type: none;
+}
+
+.header-nav li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
 .hero {
     height: 800px;
     width: 100%;
@@ -107,6 +90,24 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+.card {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.card img {
+    max-height: 200px;
+}
+
+.card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
