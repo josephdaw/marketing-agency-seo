@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
+
+
 ## Table of Contents
 - [Description](#description)
 - [Lessons Learned](#lessons-learned)
